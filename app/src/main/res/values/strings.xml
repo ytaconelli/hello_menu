@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello Menu</string>
+    <string name="titulo_sobre">Sobre</string>
+    <string name="titulo_contato">Contato</string>
+</resources>
